@@ -15,7 +15,7 @@ void ChangeSize(int w,int h)
 {
     
     glViewport(0,0, w, h);
-    glViewport(0,0, w, h);
+    
 }
 
 //为程序作一次性的设置
